@@ -1,0 +1,11 @@
+# Secrets and local configuration
+backend/.env
+# Local account database
+backend/hirewise.db
+# Python
+__pycache__/
+*.py[cod]
+backend/.venv/
+# Node
+frontend/node_modules/
+frontend/dist/
